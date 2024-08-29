@@ -14,10 +14,10 @@
 
 
 
-|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|
-|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|
+|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|$$\color{red}▓$$|
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|▒|
+|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|░|
 
 $$\color{#0d1117}Python \space for \space the \space weak$$
 
