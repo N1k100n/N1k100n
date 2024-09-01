@@ -4,7 +4,7 @@
             <style>
             @font-face {
                 font-family: 'MyCustomFont';
-                src: url('ваш_шрифт.ttf') format('truetype');
+                src: url('VT323-Regular.ttf') format('truetype');
             }
             body {
                 font-family: 'MyCustomFont', sans-serif;
